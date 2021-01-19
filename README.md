@@ -10,6 +10,9 @@
   <img align="left" alt="Brock Humblet | Twitter" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
 </a>
 
+<br>
+</br>
+
 ## I'm a student developer studying computer science!
 
 - 🔭 I’m currently working on [InternalCT][project]!
@@ -31,6 +34,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bhumblet&count_private=true&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumblet&layout=compact&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumblet&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [project]: https://github.com/Bhumblet/InternalCT
