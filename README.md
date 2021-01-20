@@ -1,6 +1,6 @@
 ### Hi there, I'm Brock! 👋
 
-<a href="www.linkedin.com/in/brock-humblet">
+<a href="https://www.linkedin.com/in/brock-humblet">
   <img align="left" alt="Brock Humblet | LinkedIn" width="21px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" />
 </a>
 <a href="https://www.instagram.com/brockhumblet/">
