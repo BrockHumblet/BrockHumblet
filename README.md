@@ -35,6 +35,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bhumblet&count_private=true&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumblet&layout=compact&hide_border=true&hide=CMake,Makefile&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrockHumblet&layout=compact&hide_border=true&hide=CMake,Makefile&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[project]: https://github.com/Bhumblet/InternalCT
+[project]: https://github.com/BrockHumblet/InternalCT
