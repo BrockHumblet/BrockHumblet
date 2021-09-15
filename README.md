@@ -33,7 +33,7 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bhumblet&count_private=true&show_icons=true&hide_border=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrockHumblet&count_private=true&show_icons=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrockHumblet&layout=compact&hide_border=true&hide=CMake,Makefile&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
