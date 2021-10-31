@@ -15,7 +15,7 @@
 ## I'm a student developer studying computer science!
 
 - 🔭 I’m currently working on [InternalCT][project]!
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on anything
 - 📫 How to reach me: Brock.Humblet@gmail.com
 
