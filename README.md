@@ -3,13 +3,6 @@
 <a href="https://www.linkedin.com/in/brock-humblet">
   <img align="left" alt="Brock Humblet | LinkedIn" width="21px" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" />
 </a>
-<a href="https://www.instagram.com/brockhumblet/">
-  <img align="left" alt="Brock Humblet | Instagram" width="21px" src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png?w=300" />
-</a>
-<a href="https://twitter.com/Brockkobe32">
-  <img align="left" alt="Brock Humblet | Twitter" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
-</a>
-
 <br />
 
 ## I'm a student developer studying computer science!
